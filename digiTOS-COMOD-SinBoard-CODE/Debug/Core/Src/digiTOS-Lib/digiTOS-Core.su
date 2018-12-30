@@ -1,0 +1,13 @@
+digiTOS-Core.c:516:10:TM_CRC_Calculate8	16	static
+digiTOS-Core.c:550:10:TM_CRC_Calculate16	16	static
+digiTOS-Core.c:584:10:TM_CRC_Calculate32	0	static
+digiTOS-Core.c:626:6:AddUART_CRC	16	static
+digiTOS-Core.c:701:6:ClearUART_Buff	8	static
+digiTOS-Core.c:621:6:AddUART_Header	8	static
+digiTOS-Core.c:635:6:Get_ChipID	16	static
+digiTOS-Core.c:673:6:Get_FlashSize	8	static
+digiTOS-Core.c:682:6:Get_Version	8	static
+digiTOS-Core.c:705:6:WaitForUART_TX	0	static
+digiTOS-Core.c:692:6:SerialPrintln	8	static
+digiTOS-Core.c:709:6:HAL_UART_TxCpltCallback	8	static
+digiTOS-Core.c:718:6:ResetWDG	8	static
