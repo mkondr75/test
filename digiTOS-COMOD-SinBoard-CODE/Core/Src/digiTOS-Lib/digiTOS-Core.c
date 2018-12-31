@@ -1,6 +1,6 @@
 /*
  * digiTOS-Core.c
- *
+ * new add .gitignore on project dir
  *  Created on: 8 дек. 2018 г.
  *      Author: Nick Nifontov
  */
