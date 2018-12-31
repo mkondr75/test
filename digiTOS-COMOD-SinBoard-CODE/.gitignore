@@ -1,2 +1,5 @@
 *.o
 *.su
+ignore/
+.svn/
+.settings/
